@@ -11,7 +11,7 @@ This site is where I share updates on my projects, resume, and things I’m lear
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/douskii/douskii.github.io/raw/master/images/HeadShotPhoto1.jpeg" width="50%">
+  <img class="img-circle" src="https://github.com/douskii/douskii.github.io/raw/master/images/HeadShotPhoto2.jpeg" width="50%">
 </p>
 
 ---
@@ -27,7 +27,7 @@ In this report, I will be performing sentiment analysis on SEC 10-K filings. The
 
 Public companies are required to file annual reports (10‑K filings) with the U.S. Securities and Exchange Commission (SEC). These documents provide detailed insights into a firm’s operations, financial performance, risks, and strategies. Recently, researchers and practitioners have increasingly turned to textual analysis methods—especially sentiment analysis—to extract qualitative signals from these filings. This report outlines a workflow that integrates data extraction from 10‑K filings, sentiment analysis using predefined word lists, and the merging of sentiment metrics with additional firm-level data to derive insights.
 
-Note I used json and csv files which was a long method and different from the way taught. As a result of doing the more difficult method, I did not have time to merge the files into one long file with 500 columns and could not produce a correlation table with the values that I created on my build-sample file.
+*Note: I used json and csv files which was a long method and different from the way taught. As a result of doing the more difficult method, I did not have time to merge the files into one long file with 500 columns and could not produce a correlation table with the values that I created on my build-sample file.*
 
 ### Data
 The correlation heatmap provides insight into the relationship between sentiment variables and returns over three different time zones. The analysis uses three different returns. One is the short-term return from Day 0, the next is a return measured from time 0 to time 2, and the last return is measured over a later period from time 2 to time 10. Above in the correlation heatmap depiction, positive values indicate that as the sentiment score increases then the return will increase and vice versa for the negative values. Since this is the demo the sentiment values and returns don't give much insight as the correlation values are very small, but if I were to utilize the sentiment values that I created on my build-sample file such as the positive and negative regulatory, uncertainty, operational, competition, and macro then I would be able to provide much more rational on the variables and the return.
@@ -35,27 +35,31 @@ The correlation heatmap provides insight into the relationship between sentiment
 By comparing the correlations across these time frames, we can observe how the impact of sentiment might vary over different investment horizons. For instance, if a sentiment variable shows a stronger positive correlation with short-term returns but a weaker (or negative) correlation with long-term returns, it might suggest that market reactions to sentiment are more immediate and potentially dissipate over time.
 
 ### Conclusion
-This report details a comprehensive workflow for extracting, processing, and analyzing 10‑K filings using sentiment analysis techniques. By leveraging text mining, NEAR matching, and advanced statistical methods, the analysis uncovers nuanced relationships between textual sentiment and firm performance. The robustness of the findings—despite adjustments for industry and temporal factors—suggests that sentiment measures derived from 10‑K filings can serve as valuable indicators for assessing regulatory risk, uncertainty, and overall corporate strategy
+This report details a comprehensive workflow for extracting, processing, and analyzing 10‑K filings using sentiment analysis techniques. By leveraging text mining, NEAR matching, and advanced statistical methods, the analysis uncovers nuanced relationships between textual sentiment and firm performance. The robustness of the findings, despite adjustments for industry and temporal factors—suggests that sentiment measures derived from 10‑K filings can serve as valuable indicators for assessing regulatory risk, uncertainty, and overall corporate strategy.
 
 <img src="images/Screenshot 2025-04-30 132738.png?raw=true"/>
+
+Here is what I learned after we finished the assignment, and I was able to check in with a peer to go over a more efficient way to get the data for the correlation matrix. 
+
+<img src="images/Screenshot 2025-04-30 152241.png?raw=true"/>
 
 ---
 
 _**[Regression Practice](Regression_practice)**_
 
-Below is my output from my regression analysis for assignment 6 (One of the assignments I felt the most confident on):
+Below is my output from my regression analysis for assignment 6:
 
 <img src="images/Screenshot 2025-04-30 134217.png?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Personal project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
