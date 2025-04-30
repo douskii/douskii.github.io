@@ -37,15 +37,15 @@ By comparing the correlations across these time frames, we can observe how the i
 ### Conclusion
 This report details a comprehensive workflow for extracting, processing, and analyzing 10‑K filings using sentiment analysis techniques. By leveraging text mining, NEAR matching, and advanced statistical methods, the analysis uncovers nuanced relationships between textual sentiment and firm performance. The robustness of the findings—despite adjustments for industry and temporal factors—suggests that sentiment measures derived from 10‑K filings can serve as valuable indicators for assessing regulatory risk, uncertainty, and overall corporate strategy
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2025-04-30 132738.png?raw=true"/>
 
 ---
 
 _**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Below is my output from my regression analysis for assignment 6 (One of the assignments I felt the most confident on):
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2025-04-30 134217.png?raw=true"/>
 
 ---
 
