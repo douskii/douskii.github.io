@@ -53,18 +53,6 @@ Below is my output from my regression analysis for assignment 6:
 
 ---
 
-_**[Team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ## Career Objectives
 
 I’m currently working toward my degree in Finance and Accounting at Lehigh University, with plans to graduate soon. As I continue growing in the field, I’m actively networking and exploring different areas of accounting to find the right fit. After graduation, I plan to pursue my CPA license and start a full-time role in public accounting. I’m excited to apply what I’ve learned, keep building new skills, and be part of a team that helps clients make smart, informed financial decisions.

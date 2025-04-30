@@ -2,14 +2,16 @@ title: Amadou Diallo # your name (or website title) here
 logo: "/images/HeadShotPhoto1.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  <a href="https://www.linkedin.com/in/amadou-b-diallo/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
   <br>
   <a href="pdf/Amadou Diallo _ Resume Updated 3_11_25.docx (1).pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://douskii.github.io/" class="btn btn--info">Portfolio</a>  
+  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
-  <a href="https://www.GitHub.com/douskii/">GitHub</a>  
+  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
   <br>
- 
+  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
+  <br>
+  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
   
 theme: jekyll-theme-minimal
