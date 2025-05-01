@@ -47,7 +47,7 @@ Here is what I learned after we finished the assignment, and I was able to check
 
 _**[Regression Practice](Regression_practice)**_
 
-Below is my output from my regression analysis for assignment 6:
+Below is my output from my regression analysis for assignment 6 on the housing dataset:
 
 <img src="images/Screenshot 2025-04-30 134217.png?raw=true"/>
 
