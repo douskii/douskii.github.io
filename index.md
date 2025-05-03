@@ -59,13 +59,13 @@ Below are the results of how real estate prices vary based on proximity to ameni
 
 <img src="images/Screenshot 2025-05-03 123646.png?raw=true"/>
 
-<img src="images/Screenshot 2025-05-03 123712.pngraw=true"/>
+<img src="images/Screenshot 2025-05-03 123712.png?raw=true"/>
 
-<img src="images/Screenshot 2025-05-03 123755.pngraw=true"/>
+<img src="images/Screenshot 2025-05-03 123755.png?raw=true"/>
 
-<img src="images/Screenshot 2025-05-03 123833.pngraw=true"/>
+<img src="images/Screenshot 2025-05-03 123833.png?raw=true"/>
 
-<img src="images/Screenshot 2025-05-03 123921.pngraw=true"/>
+<img src="images/Screenshot 2025-05-03 123921.png?raw=true"/>
 
 ## Career Objectives
 
