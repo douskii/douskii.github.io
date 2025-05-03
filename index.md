@@ -35,11 +35,11 @@ The correlation heatmap provides insight into the relationship between sentiment
 By comparing the correlations across these time frames, we can observe how the impact of sentiment might vary over different investment horizons. For instance, if a sentiment variable shows a stronger positive correlation with short-term returns but a weaker (or negative) correlation with long-term returns, it might suggest that market reactions to sentiment are more immediate and potentially dissipate over time.
 
 ### Conclusion
-This report details a comprehensive workflow for extracting, processing, and analyzing 10‑K filings using sentiment analysis techniques. By leveraging text mining, NEAR matching, and advanced statistical methods, the analysis uncovers nuanced relationships between textual sentiment and firm performance. The robustness of the findings, despite adjustments for industry and temporal factors—suggests that sentiment measures derived from 10‑K filings can serve as valuable indicators for assessing regulatory risk, uncertainty, and overall corporate strategy.
+This report details a comprehensive workflow for extracting, processing, and analyzing 10‑K filings using sentiment analysis techniques. The analysis uncovers nuanced relationships between textual sentiment and firm performance by leveraging text mining, NEAR matching, and advanced statistical methods. The robustness of the findings, despite adjustments for industry and temporal factors, suggests that sentiment measures derived from 10‑K filings can serve as valuable indicators for assessing regulatory risk, uncertainty, and overall corporate strategy.
 
 <img src="images/Screenshot 2025-04-30 132738.png?raw=true"/>
 
-Here is what I learned after we finished the assignment, and I was able to check in with a peer to go over a more efficient way to get the data for the correlation matrix. 
+Here is what I learned after we finished the assignment, and I checked in with a peer to go over a more efficient way to get the data for the correlation matrix. 
 
 <img src="images/Screenshot 2025-04-30 152241.png?raw=true"/>
 
@@ -52,6 +52,20 @@ Below is my output from my regression analysis on the housing dataset:
 <img src="images/Screenshot 2025-04-30 134217.png?raw=true"/>
 
 ---
+
+_**[Final Project](project_summary)**_
+
+Below are the results of how real estate prices vary based on proximity to amenities such as schools, and Crime rates within Chicago:
+
+<img src="images/Screenshot 2025-05-03 123646.png?raw=true"/>
+
+<img src="images/Screenshot 2025-05-03 123712.pngraw=true"/>
+
+<img src="images/Screenshot 2025-05-03 123755.pngraw=true"/>
+
+<img src="images/Screenshot 2025-05-03 123833.pngraw=true"/>
+
+<img src="images/Screenshot 2025-05-03 123921.pngraw=true"/>
 
 ## Career Objectives
 
